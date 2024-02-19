@@ -4,7 +4,6 @@ cp-algorithms.com
 the-algorithms.com  
 github.com/UAPSPC/Code-Archive  
 
-happycoders.eu  
 freecodecamp.org  
 geeksforgeeks.org  
 Youtube - Abdul Bari  
