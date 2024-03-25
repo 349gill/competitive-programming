@@ -5,8 +5,6 @@
 - github.com/UAPSPC/Code-Archive
   
 **Problem sets:**
-- Codeforces
 - Kattis
-- Codechef
 - USACO
 - CSES
