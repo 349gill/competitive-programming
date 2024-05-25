@@ -1,4 +1,4 @@
-// PROBLEM LINK: https://www.codechef.com/problems/NOLOGIC
+// https://www.codechef.com/problems/NOLOGIC
 
 import java.util.*;
 
